@@ -1,1 +1,1 @@
-My first readme
+A git and github tasks  for alx pre-course
